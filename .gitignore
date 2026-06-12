@@ -1,0 +1,9 @@
+# Entornos y caches
+venv/
+__pycache__/
+*.pyc
+.idea/
+
+# Pesos de modelos (muy grandes para GitHub — ver README)
+Modelo/*.pt
+Modelo/*.onnx
