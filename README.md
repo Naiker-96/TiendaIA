@@ -21,7 +21,7 @@ Sistema de *smart checkout* en tiempo real construido en Python: la cámara dete
 Requiere Python 3.10+ y una cámara web.
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/Naiker-96/tienda-ia.git
 cd tienda-ia
 python -m venv venv
 venv\Scripts\activate        # En Linux/Mac: source venv/bin/activate
